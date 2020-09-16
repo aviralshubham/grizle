@@ -1,15 +1,15 @@
 # Grizle
-This is Nodejs Express project made precisely 2 years ago
-Simple and Elegant Music Chart Website
-Mobile ,Desktop, Tablet Responsive Website
-Star the repo if you Like It
+This is Nodejs Express project made precisely 2 years ago.
+Simple and Elegant Music Chart Website.
+Mobile ,Desktop, Tablet Responsive Website.
+Star the repo if you Like It.
 
 # Getting Started
 1. clone the repo
 2. install dependencies if you're running node first time using - 
-   npm install
+   npm install.
 3. now start by- 
-   npm start
+   npm start.
    
 # Folowing are Some Previews    
 
