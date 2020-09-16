@@ -1,8 +1,8 @@
 # Grizle
-This is Nodejs Express project made precisely 2 years ago.
-Simple and Elegant Music Chart Website.
-Mobile ,Desktop, Tablet Responsive Website.
-Star the repo if you Like It.
+1. This is Nodejs Express project made precisely 2 years ago.
+2. Simple and Elegant Music Chart Website.
+3. Mobile ,Desktop, Tablet Responsive Website.
+4. Star the repo if you Like It.
 
 # Getting Started
 1. clone the repo
