@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="45" viewBox="0 0 47 45">
+  <defs>
+    <linearGradient id="arrownew-c" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FD32BE"/>
+      <stop offset="100%" stop-color="#FEFE42"/>
+    </linearGradient>
+    <polygon id="arrownew-b" points="20.5 34.2 13.489 36.854 9.958 30.644 2.746 28.5 4.349 21.639 .311 15.701 6.297 11.4 7.323 4.445 14.891 4.717 20.5 0 26.109 4.717 33.677 4.445 34.703 11.4 40.689 15.701 36.651 21.639 38.254 28.5 31.042 30.644 27.511 36.854"/>
+    <filter id="arrownew-a" width="134.1%" height="136.8%" x="-17.1%" y="-13.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 2)">
+    <use fill="#000" filter="url(#arrownew-a)" xlink:href="#arrownew-b"/>
+    <use fill="url(#arrownew-c)" xlink:href="#arrownew-b"/>
+    <path fill="#FFF" d="M14.4015754,15.7730159 L15.9156468,15.7730159 L15.9156468,22.7396825 L14.4015754,22.7396825 L11.0083373,17.9227302 L11.0083373,22.7396825 L9.49426587,22.7396825 L9.49426587,15.7730159 L11.0083373,15.7730159 L14.4015754,20.5899683 L14.4015754,15.7730159 Z M21.8538135,15.7730159 L21.8538135,16.847873 L19.0404325,16.847873 L19.0404325,18.6691587 L21.5316706,18.6691587 L21.5316706,19.7440159 L19.0404325,19.7440159 L19.0404325,21.6648254 L21.8538135,21.6648254 L21.8538135,22.7396825 L17.5263611,22.7396825 L17.5263611,15.7730159 L21.8538135,15.7730159 Z M31.7865516,15.7929206 L33.408004,15.7929206 L31.2389087,22.7396825 L29.5208135,22.7396825 L28.0711706,17.892873 L26.5785754,22.7396825 L24.8604802,22.7396825 L22.7343373,15.7929206 L24.3450516,15.7929206 L25.7839563,21.157254 L27.2980278,15.7929206 L29.0053849,15.7929206 L30.4335516,21.1074921 L31.7865516,15.7929206 Z"/>
+  </g>
+</svg>
